@@ -23,7 +23,13 @@ The dashboard comprises several charts and visualizations, designed to give a co
 ![image alt](https://github.com/Deepak-1511/Amazon-Prime/blob/0810142a7143a34578fdf9ff916d88815cb7ba69/img%206.jpg)
 
 # Key Metrics Overview:
-Displayed key figures such as total titles, ratings, genres, directors, and the time period (2016-2021) covered in the dataset.
+Displayed key figures such as 
+* total titles 
+* ratings 
+* genres
+* directors
+* time period (2016-2021)
+ covered in the dataset.
 
 # Ratings by Total Shows:
 A bar chart showcasing how content is categorized by ratings (R, PG-13, TV-MA), with most content rated 'R'. This chart provides insight into the nature of content available on the platform.
